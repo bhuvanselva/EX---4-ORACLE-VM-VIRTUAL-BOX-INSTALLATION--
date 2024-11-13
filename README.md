@@ -1,11 +1,15 @@
 # EX---5A-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+
 **BHUVANESHWARI**
+
 **212222220008**
+
 **Aim**
 
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
 
 **Specifications:**
+
 1.Operating System: Windows, macOS, or Linux-based OS
 2.Processor: x86/AMD64-compatible CPU (Intel or AMD)
 3.RAM: Minimum 4 GB (8 GB or more recommended)
