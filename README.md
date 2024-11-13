@@ -1,5 +1,8 @@
 # EX---5A-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+**BHUVANESHWARI**
+**212222220008**
 **Aim**
+
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
 
 **Specifications:**
@@ -8,9 +11,11 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 3.RAM: Minimum 4 GB (8 GB or more recommended)
 4.Storage: Minimum 100 MB for the base application, plus additional space for each virtual machine (at least 20 GB free recommended)
 5.Graphics: Hardware virtualization support (Intel VT-x or AMD-V) is recommended for optimal performance
+
 **Software Requirements:**
 1.Internet connection to download the VirtualBox installer
 2.Optionally, Oracle VM VirtualBox Extension Pack for additional features
+
 **Procedure:**
 **Step 1: Download VirtualBox**
 2.Go to the VirtualBox official website: VirtualBox Downloads
@@ -18,7 +23,9 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 4.Windows hosts (for Windows users)
 5.macOS hosts (for Mac users)
 6Linux distributions (for Linux users)
+
 **Step 2: Install VirtualBox (Windows/macOS)**
+
 **For Windows:**
 1.Open the downloaded installer (VirtualBox-x.x.x-xxxx-Win.exe).
 2.Follow the setup wizard:
